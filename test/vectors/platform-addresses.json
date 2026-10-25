@@ -1,0 +1,485 @@
+{
+  "addresses": [
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "V",
+      "hrp": "dijets",
+      "address": "V-dijets1lnk637g0edwnqc2tn8tel39652fswa3xl5074s",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "M",
+      "hrp": "dijets",
+      "address": "M-dijets1lnk637g0edwnqc2tn8tel39652fswa3xl5074s",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "U",
+      "hrp": "dijets",
+      "address": "U-dijets1lnk637g0edwnqc2tn8tel39652fswa3xl5074s",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "V",
+      "hrp": "lothar",
+      "address": "V-lothar1lnk637g0edwnqc2tn8tel39652fswa3xyeshl5",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "M",
+      "hrp": "lothar",
+      "address": "M-lothar1lnk637g0edwnqc2tn8tel39652fswa3xyeshl5",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "U",
+      "hrp": "lothar",
+      "address": "U-lothar1lnk637g0edwnqc2tn8tel39652fswa3xyeshl5",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "V",
+      "hrp": "local",
+      "address": "V-local1lnk637g0edwnqc2tn8tel39652fswa3xzmew5p",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "M",
+      "hrp": "local",
+      "address": "M-local1lnk637g0edwnqc2tn8tel39652fswa3xzmew5p",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "U",
+      "hrp": "local",
+      "address": "U-local1lnk637g0edwnqc2tn8tel39652fswa3xzmew5p",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "V",
+      "hrp": "custom",
+      "address": "V-custom1lnk637g0edwnqc2tn8tel39652fswa3xgjkjsu",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "M",
+      "hrp": "custom",
+      "address": "M-custom1lnk637g0edwnqc2tn8tel39652fswa3xgjkjsu",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-24jUJ9vZexUM6expyMcT48LBx27k1m7xpraoV62oSQAHdziao5",
+      "chain": "U",
+      "hrp": "custom",
+      "address": "U-custom1lnk637g0edwnqc2tn8tel39652fswa3xgjkjsu",
+      "keyHashHex": "fceda8f90fcb5d30614b99d79fc4baa293077626",
+      "publicKeyHex": "0373935347884478e4945cd0fd948ecf088b94dfc92074f0fb03da6f4dbc94357d"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "V",
+      "hrp": "dijets",
+      "address": "V-dijets1d6kkj0qh4wcmus3tk59npwt3rluc6en7rjyczy",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "M",
+      "hrp": "dijets",
+      "address": "M-dijets1d6kkj0qh4wcmus3tk59npwt3rluc6en7rjyczy",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "U",
+      "hrp": "dijets",
+      "address": "U-dijets1d6kkj0qh4wcmus3tk59npwt3rluc6en7rjyczy",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "V",
+      "hrp": "lothar",
+      "address": "V-lothar1d6kkj0qh4wcmus3tk59npwt3rluc6en7clm3gq",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "M",
+      "hrp": "lothar",
+      "address": "M-lothar1d6kkj0qh4wcmus3tk59npwt3rluc6en7clm3gq",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "U",
+      "hrp": "lothar",
+      "address": "U-lothar1d6kkj0qh4wcmus3tk59npwt3rluc6en7clm3gq",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "V",
+      "hrp": "local",
+      "address": "V-local1d6kkj0qh4wcmus3tk59npwt3rluc6en77ajgr4",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "M",
+      "hrp": "local",
+      "address": "M-local1d6kkj0qh4wcmus3tk59npwt3rluc6en77ajgr4",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "U",
+      "hrp": "local",
+      "address": "U-local1d6kkj0qh4wcmus3tk59npwt3rluc6en77ajgr4",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "V",
+      "hrp": "custom",
+      "address": "V-custom1d6kkj0qh4wcmus3tk59npwt3rluc6en755a58g",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "M",
+      "hrp": "custom",
+      "address": "M-custom1d6kkj0qh4wcmus3tk59npwt3rluc6en755a58g",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-2MMvUMsxx6zsHSNXJdFD8yc5XkancvwyKPwpw4xUK3TCGDuNBY",
+      "chain": "U",
+      "hrp": "custom",
+      "address": "U-custom1d6kkj0qh4wcmus3tk59npwt3rluc6en755a58g",
+      "keyHashHex": "6ead693c17abb1be422bb50b30b9711ff98d667e",
+      "publicKeyHex": "03e3531f0b16d9a79b2db28c74856e4095665f0cd91d36647deb69f0f965308326"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "V",
+      "hrp": "dijets",
+      "address": "V-dijets17fpqs358de5lgu7a5ftpw2t8axf0pm33vxajzl",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "M",
+      "hrp": "dijets",
+      "address": "M-dijets17fpqs358de5lgu7a5ftpw2t8axf0pm33vxajzl",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "U",
+      "hrp": "dijets",
+      "address": "U-dijets17fpqs358de5lgu7a5ftpw2t8axf0pm33vxajzl",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "V",
+      "hrp": "lothar",
+      "address": "V-lothar17fpqs358de5lgu7a5ftpw2t8axf0pm33htzmgm",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "M",
+      "hrp": "lothar",
+      "address": "M-lothar17fpqs358de5lgu7a5ftpw2t8axf0pm33htzmgm",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "U",
+      "hrp": "lothar",
+      "address": "U-lothar17fpqs358de5lgu7a5ftpw2t8axf0pm33htzmgm",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "V",
+      "hrp": "local",
+      "address": "V-local17fpqs358de5lgu7a5ftpw2t8axf0pm333ftzrw",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "M",
+      "hrp": "local",
+      "address": "M-local17fpqs358de5lgu7a5ftpw2t8axf0pm333ftzrw",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "U",
+      "hrp": "local",
+      "address": "U-local17fpqs358de5lgu7a5ftpw2t8axf0pm333ftzrw",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "V",
+      "hrp": "custom",
+      "address": "V-custom17fpqs358de5lgu7a5ftpw2t8axf0pm33mqy78n",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "M",
+      "hrp": "custom",
+      "address": "M-custom17fpqs358de5lgu7a5ftpw2t8axf0pm33mqy78n",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-cxb7KpGWhDMALTjNNSJ7UQkkomPesyWAPUaWRGdyeBNzR6f35",
+      "chain": "U",
+      "hrp": "custom",
+      "address": "U-custom17fpqs358de5lgu7a5ftpw2t8axf0pm33mqy78n",
+      "keyHashHex": "f2420846876e69f473dda256172967e992f0ee31",
+      "publicKeyHex": "02695ccbc09d9ddbdd4a675d0964351125102dbd1ed86c725ffa3b873bc6c05d78"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "V",
+      "hrp": "dijets",
+      "address": "V-dijets18jma8ppw3nhx5r4ap8clazz0dps7rv5ujq54md",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "M",
+      "hrp": "dijets",
+      "address": "M-dijets18jma8ppw3nhx5r4ap8clazz0dps7rv5ujq54md",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "U",
+      "hrp": "dijets",
+      "address": "U-dijets18jma8ppw3nhx5r4ap8clazz0dps7rv5ujq54md",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "V",
+      "hrp": "lothar",
+      "address": "V-lothar18jma8ppw3nhx5r4ap8clazz0dps7rv5ufdtu3f",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "M",
+      "hrp": "lothar",
+      "address": "M-lothar18jma8ppw3nhx5r4ap8clazz0dps7rv5ufdtu3f",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "U",
+      "hrp": "lothar",
+      "address": "U-lothar18jma8ppw3nhx5r4ap8clazz0dps7rv5ufdtu3f",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "V",
+      "hrp": "local",
+      "address": "V-local18jma8ppw3nhx5r4ap8clazz0dps7rv5u00z96u",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "M",
+      "hrp": "local",
+      "address": "M-local18jma8ppw3nhx5r4ap8clazz0dps7rv5u00z96u",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "U",
+      "hrp": "local",
+      "address": "U-local18jma8ppw3nhx5r4ap8clazz0dps7rv5u00z96u",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "V",
+      "hrp": "custom",
+      "address": "V-custom18jma8ppw3nhx5r4ap8clazz0dps7rv5u9xde7p",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "M",
+      "hrp": "custom",
+      "address": "M-custom18jma8ppw3nhx5r4ap8clazz0dps7rv5u9xde7p",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN",
+      "chain": "U",
+      "hrp": "custom",
+      "address": "U-custom18jma8ppw3nhx5r4ap8clazz0dps7rv5u9xde7p",
+      "keyHashHex": "3cb7d3842e8cee6a0ebd09f1fe884f6861e1b29c",
+      "publicKeyHex": "0327448e78ffa8cdb24cf19be0204ad954b1bdb4db8c51183534c1eecf2ebd094e"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "V",
+      "hrp": "dijets",
+      "address": "V-dijets1slzwcpeklkks8lv7erpm5cyaa9vxqxnmwpuncu",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "M",
+      "hrp": "dijets",
+      "address": "M-dijets1slzwcpeklkks8lv7erpm5cyaa9vxqxnmwpuncu",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "U",
+      "hrp": "dijets",
+      "address": "U-dijets1slzwcpeklkks8lv7erpm5cyaa9vxqxnmwpuncu",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "V",
+      "hrp": "lothar",
+      "address": "V-lothar1slzwcpeklkks8lv7erpm5cyaa9vxqxnm4vr6jc",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "M",
+      "hrp": "lothar",
+      "address": "M-lothar1slzwcpeklkks8lv7erpm5cyaa9vxqxnm4vr6jc",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "U",
+      "hrp": "lothar",
+      "address": "U-lothar1slzwcpeklkks8lv7erpm5cyaa9vxqxnm4vr6jc",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "V",
+      "hrp": "local",
+      "address": "V-local1slzwcpeklkks8lv7erpm5cyaa9vxqxnmnw2red",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "M",
+      "hrp": "local",
+      "address": "M-local1slzwcpeklkks8lv7erpm5cyaa9vxqxnmnw2red",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "U",
+      "hrp": "local",
+      "address": "U-local1slzwcpeklkks8lv7erpm5cyaa9vxqxnmnw2red",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "V",
+      "hrp": "custom",
+      "address": "V-custom1slzwcpeklkks8lv7erpm5cyaa9vxqxnme89las",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "M",
+      "hrp": "custom",
+      "address": "M-custom1slzwcpeklkks8lv7erpm5cyaa9vxqxnme89las",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    },
+    {
+      "privateKey": "PrivateKey-2RWLv6YVEXDiWLpaCbXhhqxtLbnFaKQsWPSSMSPhpWo47uJAeV",
+      "chain": "U",
+      "hrp": "custom",
+      "address": "U-custom1slzwcpeklkks8lv7erpm5cyaa9vxqxnme89las",
+      "keyHashHex": "87c4ec0736fdad03fd9ec8c3ba609de958601a7b",
+      "publicKeyHex": "02e10731b5ec3ff2d4eb9624260dfb63dd376e313d90a13865d1aeb7370be41ed5"
+    }
+  ],
+  "source": "dijetsnodesgo utils/formatting/address, utils/crypto test keys"
+}
