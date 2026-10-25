@@ -74,7 +74,7 @@ Amounts are `bigint`: nDJT (9 decimals) on V and M, wei (18 decimals) on U. Use 
 - It checks the target is on the client's network.
 - It puts the registry evidence (record ID, version, M-Chain block) in `prepared.recipient.name`, so the user can review it before signing.
 
-Names point at V- and M-Chain key hashes. They cannot name a U-Chain EVM account, so `resolveRecipient(name, "U")` refuses. The registry is active only on local and custom networks; `client.names.isActive()` tells you.
+Names point at V- and M-Chain key hashes. They cannot name a U-Chain EVM account, so `resolveRecipient(name, "U")` refuses. The registry is active on mainnet, local and custom networks, not on Lothar; `client.names.isActive()` tells you.
 
 ### Arcs
 
