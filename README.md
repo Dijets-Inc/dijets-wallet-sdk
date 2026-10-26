@@ -107,7 +107,7 @@ The format records no KDF parameters, so the iteration count can't be raised wit
 
 ## Ledger (experimental)
 
-There is no Dijets Ledger app. `LedgerWallet` drives the Avalanche Ledger app, with the Ethereum app for U-Chain EVM transactions. It has **not been tested against a device**.
+`LedgerWallet` drives the Ledger app, with the Ethereum app for U-Chain EVM transactions. Note: It has **not been tested against a device**.
 
 - **Blind signing:** V, M and U atomic transactions are signed by hash (`signHash`). The device shows only the transaction hash, and hash signing must be enabled in the app.
 - **No device address display:** the app can't parse Dijets transactions, and its address display allows at most 4 HRP characters; `dijets` and `lothar` have 6.
@@ -116,9 +116,8 @@ There is no Dijets Ledger app. `LedgerWallet` drives the Avalanche Ledger app, w
 - **Refused:** name, subnet and Arc transactions.
 - **Opt in:** you must pass `acknowledgeExperimental: true`. Install the optional peers `@ledgerhq/hw-transport-*`, `@obsidiansystems/hw-app-avalanche` and `@ledgerhq/hw-app-eth`.
 
-## Compatibility with avalanche-wallet-sdk 0.18.3
+## Compatibility
 
-The capabilities are kept; the API is Dijets-native. It doesn't use X/P/C names, a global `setNetwork`, or Avalanche services.
 
 | Upstream | Here |
 |---|---|
@@ -175,4 +174,4 @@ See `../dijets-platform-js/README.md` for starting a devnet with the node's own 
 
 ## Licence
 
-BSD-3-Clause, © 2026 Dijets Inc. Limited. Derived from avalanche-wallet-sdk (BSD-3-Clause, © 2021 Ava Labs): see `LICENSE.upstream`.
+BSD-3-Clause, © 2026 Dijets Inc. Limited.
